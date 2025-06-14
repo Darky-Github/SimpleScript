@@ -1,4 +1,4 @@
-from types import Token, TokenType
+from ss_types import Token, TokenType
 
 KEYWORDS = {"say", "ask", "is", "loop", "do", "while", "if", "else", "in"}
 TYPES = {"int", "doub", "str", "bool", "char"}
