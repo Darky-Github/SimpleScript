@@ -1,5 +1,5 @@
 from utils import process_string
-from types import TokenType
+from ss_types import TokenType
 
 GLOBAL_SCOPE = {}
 
